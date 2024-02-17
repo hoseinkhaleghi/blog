@@ -17,8 +17,8 @@ enableRobotsTXT = true
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fa]
     title = "حسین"
-    weight = 2
-    contentDir = "content/fr"
+    weight = 1
+    contentDir = "content/fa"
 
 [sitemap]
   changefreq = "monthly"
