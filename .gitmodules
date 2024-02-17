@@ -1,0 +1,4 @@
+[submodule "wizard/public"]
+	path = wizard/public
+	url = git@github.com:hoseinkhaleghi/wizard.github.io.git
+	branch = main
