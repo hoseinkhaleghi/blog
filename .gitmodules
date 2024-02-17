@@ -2,3 +2,6 @@
 	path = wizard/public
 	url = git@github.com:hoseinkhaleghi/wizard.github.io.git
 	branch = main
+[submodule "wizard/themes/ananke"]
+	path = wizard/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
