@@ -1,17 +1,17 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Learn Next.js"
-featured_image: "/images/esmeralda.jpg"
+featured_image: ''
 tags: []
 title: "Chapter VI: Learn Next.js"
 disable_share: false
 ---
-1. What is Next.js?
+# 1. What is Nextjs? 
 Next.js is an open-source, lightweight React.js framework that facilitates developers to build static and server-side rendering web applications. It was created by Zeit. Next.js framework is based on React, Webpack, and Babel and allows us to write server-rendered React apps easily. It doesn't require any webpack configuration and only needs npm run dev start building your next feature-filled web application.
 
 
 
-2. Why is Next.js used for? / Why do world's leading companies prefer Next.js?
+# 2. Why is Next.js used for? / Why do world's leading companies prefer Next.js?
 If you want to build a complete web application with React from scratch, you have to fulfill the following points:
 o	Your code has to be bundled using a bundler like webpack and transformed using a compiler like Babel.
 o	You have to do production optimizations such as code splitting.
